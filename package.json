@@ -1,0 +1,27 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "----------------------\r ### Technologies\r To make it through this exercice, you will need to use the following technologies.\r * HTML_CSS_JS\r * Ajax (fetch)\r * Node.js Express\r * Mongoose\r * JWT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielaTh/TodoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielaTh/TodoList/issues"
+  },
+  "homepage": "https://github.com/GabrielaTh/TodoList#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.1"
+  }
+}
